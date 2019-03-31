@@ -13,15 +13,15 @@ Notetorious is a full-stack web application fully inspired by Evernote and built
 
 ## Screenshots
 
-![Notetorious](./images/notetorious-landing-page.png "Landing")
+![Notetorious](./docs/images/notetorious-landing-page.png "Landing")
 
-![Notetorious](./images/notetorious-login-page.png "Login")
+![Notetorious](./docs/images/notetorious-login-page.png "Login")
 
-![Notetorious](./images/notetorious-all-notes-page.png "all notes")
+![Notetorious](./docs/images/notetorious-all-notes-page.png "all notes")
 
-![Notetorious](./images/notetorious-notebooks-page.png "notebooks")
+![Notetorious](./docs/images/notetorious-notebooks-page.png "notebooks")
 
-![Notetorious](./images/notetorious-shortcuts-page.png "shortcuts")
+![Notetorious](./docs/images/notetorious-shortcuts-page.png "shortcuts")
 
 ## Project Design Docs
 
