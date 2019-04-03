@@ -40,9 +40,9 @@ class LogIn extends React.Component {
   demoLogin = e => {
     e.preventDefault();
     axios
-      .post("/sessions/login", { username: "demo", password: "demo123" })
+      .post("/sessions/login", { username: "Clark Kent", password: "lane123" })
       .then(() => {
-        Auth.authenticateUser("demo");
+        Auth.authenticateUser("Clark Kent");
       })
       .then(() => {
         this.props.checkAuthenticateStatus();
